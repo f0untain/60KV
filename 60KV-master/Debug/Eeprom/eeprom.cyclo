@@ -1,0 +1,8 @@
+../Eeprom/eeprom.c:11:10:CalculateBytesToWrite	2
+../Eeprom/eeprom.c:23:6:WriteToEeprom	3
+../Eeprom/eeprom.c:60:6:FloatToByteArray	2
+../Eeprom/eeprom.c:80:7:ByteArrayToFloat	2
+../Eeprom/eeprom.c:101:6:WriteFloatToEeprom	1
+../Eeprom/eeprom.c:113:7:ReadFloatFromEeprom	1
+../Eeprom/eeprom.c:127:6:ReadFromEeprom	3
+../Eeprom/eeprom.c:155:6:EraseEepromPage	1

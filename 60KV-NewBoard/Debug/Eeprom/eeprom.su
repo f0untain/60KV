@@ -1,0 +1,8 @@
+../Eeprom/eeprom.c:11:10:CalculateBytesToWrite	16	static
+../Eeprom/eeprom.c:23:6:WriteToEeprom	64	static
+../Eeprom/eeprom.c:60:6:FloatToByteArray	24	static
+../Eeprom/eeprom.c:80:7:ByteArrayToFloat	24	static
+../Eeprom/eeprom.c:101:6:WriteFloatToEeprom	16	static
+../Eeprom/eeprom.c:113:7:ReadFloatFromEeprom	24	static
+../Eeprom/eeprom.c:127:6:ReadFromEeprom	64	static
+../Eeprom/eeprom.c:155:6:EraseEepromPage	104	static

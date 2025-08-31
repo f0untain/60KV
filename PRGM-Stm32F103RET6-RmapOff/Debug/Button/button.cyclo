@@ -1,0 +1,6 @@
+../Button/button.c:8:6:ReadRotaryMiddleKey	1
+../Button/button.c:9:6:ReadStandbyKey	1
+../Button/button.c:10:6:ReadBackKey	1
+../Button/button.c:11:6:ReadStartKey	1
+../Button/button.c:19:6:VcDecOrSet	1
+../Button/button.c:30:6:Debounce	1
