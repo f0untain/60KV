@@ -1,0 +1,7 @@
+../Button/button.c:8:6:ReadRotaryMiddleKey	0	static
+../Button/button.c:9:6:ReadStandbyKey	0	static
+../Button/button.c:10:6:ReadBackKey	0	static
+../Button/button.c:11:6:ReadStartKey	0	static
+../Button/button.c:24:6:VcDecOrSet	0	static
+../Button/button.c:35:6:Debounce	24	static
+../Button/button.c:67:9:buttonsDown	0	static,ignoring_inline_asm
